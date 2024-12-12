@@ -6,11 +6,14 @@
 <!-- default badges end -->
 # Word Processing Document API - Specify Printer Settings and Print a Word Document
 
+The following code sample shows how to print the document with the default and specific printer settings using the `RichEditDocumentServer`. An instance of the `RichEditDocumentServer` loads a document, and, depending on the selected option, prints the whole document or only two pages.
 
-The following code sample shows how to print the document with the default and specific printer settings using the RichEditDocumentServer. An instance of the RichEditDocumentServer loads a document, and, depending on the selected option, prints the whole document or only two pages. 
+> [!Important]  
+> The Universal Subscription or an additional Office File API Subscription is required to use this example in production code. For pricing information, please refer to the [DevExpress Subscription](https://www.devexpress.com/Subscriptions/) page. 
 
-<br/>
+## Files to Review
 
+* [XtraForm1.cs](./CS/WinfowsFormsApp1/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/WinfowsFormsApp1/XtraForm1.vb)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
