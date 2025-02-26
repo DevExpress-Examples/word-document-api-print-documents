@@ -13,7 +13,7 @@ The following code sample shows how to print the document with the default and s
 
 ## Files to Review
 
-* [XtraForm1.cs](./CS/WindowsFormsApp1/XtraForm1.cs) (VB: [XtraForm1.vb](./VB/WindowsFormsApp1/XtraForm1.vb)
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb)
 
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
